@@ -1,6 +1,6 @@
 # IoT-Device-Web
 ## 基本介绍
-* 本项目基于 [若依管理系统](http://www.ruoyi.vip/)开发
+* 本项目是一款基于 [若依管理系统](http://www.ruoyi.vip/) 开发的物联网设备管理系统
 * 前端采用Vue、Element UI。
 * 后端采用Spring Boot、Spring Security、Mybatis。
 * 数据库采用Mysql、Redis、MongoDB
