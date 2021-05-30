@@ -11,3 +11,4 @@
 ## 快速开始
 * 创建本地数据库并导入sql脚本、更改yaml文件的数据源配置，启动Spring Boot
 * npm install 安装前端工程依赖，npm run dev 运行工程
+* 使用MQTTX等客户端进行调试
